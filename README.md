@@ -1,5 +1,5 @@
 # project1_happiness
-Prime Country Candidates for Invest
+Prime Country Candidates For Invest
 
 ### Project Description/Outline:
 For Project 1, you will work with your group to find and analyze a dataset of your choice. 
