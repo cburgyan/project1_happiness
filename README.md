@@ -6,6 +6,10 @@ For Project 1, you will work with your group to find and analyze a dataset of yo
  
 Research Questions to Answer:
 
+Collaborators:
+Karoly Burgyan
+Shayla Badeaux
+Christian Cantu
 
 
 Sources:
