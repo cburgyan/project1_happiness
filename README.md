@@ -6,7 +6,6 @@ For Project 1, you will work with your group to find and analyze a dataset of yo
 
  
 ### Research Questions to Answer:
-correlations:<br>
 1. Is there a correlation between Happiness and Safety?<br>
 2. Is there a correlation between Happiness and Cost of Living?<br>
 3. Is there a correlation between Happiness and Purchasing Power?<br>
