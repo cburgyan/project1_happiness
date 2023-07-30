@@ -1,18 +1,26 @@
 # project1_happiness
+Prime Country Candidates for Invest
 
-Project Description/Outline:
+### Project Description/Outline:
 For Project 1, you will work with your group to find and analyze a dataset of your choice. 
 
  
-Research Questions to Answer:
+### Research Questions to Answer:
+correlations:<br>
+1. Is there a correlation between Happiness and Safety?<br>
+2. Is there a correlation between Happiness and Cost of Living?<br>
+3. Is there a correlation between Happiness and Purchasing Power?<br>
+4. Which countries satisfy the priorities of the customer best-- do value happiness, purchasing power, or safety most?<br>
+5. of the top countries Which countries most GDP as a proxy for infrastructure?<br>
 
-Collaborators:<br>
+
+#### Collaborators:<br>
 Karoly Burgyan<br>
 Shayla Badeaux<br>
 Christian Cantu
 
 
-Sources:
+#### Sources:
 1.	World Happiness Report up to 2022. (2022, March 19). Kaggle. https://www.kaggle.com/datasets/mathurinache/world-happiness-report
 2.	Cost of Living Index 2022. (2022, May 28). Kaggle. https://www.kaggle.com/datasets/ankanhore545/cost-of-living-index-2022
 3.	World Crime Index. (2022, November 8). Kaggle. https://www.kaggle.com/datasets/ahmadjalalmasood123/world-crime-index
