@@ -9,7 +9,7 @@ For Project 1, you will work with your group to find and analyze a dataset of yo
 1. Is there a correlation between Happiness and Safety?<br>
 2. Is there a correlation between Happiness and Cost of Living?<br>
 3. Is there a correlation between Happiness and Purchasing Power?<br>
-4. Which countries satisfy the priorities of the customer best-- do value happiness, purchasing power, or safety most?<br>
+4. Which countries satisfy the priorities of the customer best-- does the customer value happiness, purchasing power, or safety most?<br>
 5. Which countries on the priority lists have the most developed infrastructure using GDP as a proxy for infrastructure development?<br>
 
 
